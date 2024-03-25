@@ -2,7 +2,7 @@
 
 This Android app allows users to view the repositories of ABN AMRO on GitHub. The app consists of two screens: a list screen and a detail screen.
 
-Features:
+<h2>Features:</h2>
 
 List Screen:
 
@@ -42,7 +42,7 @@ Use the CTA button to open the repository's HTML URL in an external browser.
 
 
 <img src="/assets/1.jpg" alt="Example Image 1" style="height:auto;width:300px;margin:15px;">
-<img src="/assets/2.jpg" alt="Example Image 2" style="height:auto;width:300px;">
+<img src="/assets/2.jpg" alt="Example Image 2" style="height:auto;width:300px;margin:15px;">
 
 
 
