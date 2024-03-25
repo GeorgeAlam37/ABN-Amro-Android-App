@@ -40,8 +40,18 @@ View the ABN AMRO GitHub repositories on the list screen.
 Click on a repository to view its details on the detail screen.
 Use the CTA button to open the repository's HTML URL in an external browser.
 
-<img src="/assets/1.jpg" alt="Example Image 1" style="max-width: 100%; height: auto;">
-<img src="/assets/2.jpg" alt="Example Image 2" style="max-width: 100%; height: auto;">
+<style>
+  img {
+    width: 100%; /* Make images fill their container */
+    max-width: 400px; /* Limit maximum width to 400 pixels */
+    margin: 20px auto; /* Center align images with some margin */
+    display: block; /* Ensure images are displayed as block elements */
+  }
+</style>
+
+![Example Image 1](/assets/1.jpg)
+![Example Image 2](/assets/2.jpg)
+
 
 
 
