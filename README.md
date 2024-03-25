@@ -40,7 +40,8 @@ View the ABN AMRO GitHub repositories on the list screen.
 Click on a repository to view its details on the detail screen.
 Use the CTA button to open the repository's HTML URL in an external browser.
 
-![Example Image](/assets/1.jpg){:height="300px" width="400px"}
-![Example Image](/assets/2.jpg){:height="300px" width="400px"}
+<img src="/assets/1.jpg" alt="Example Image 1" width="400" height="300">
+<img src="/assets/2.jpg" alt="Example Image 2" width="400" height="300">
+
 
 
