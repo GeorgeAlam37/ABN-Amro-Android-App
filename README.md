@@ -39,17 +39,9 @@ Build and run the app on an Android device or emulator.
 View the ABN AMRO GitHub repositories on the list screen.
 Click on a repository to view its details on the detail screen.
 Use the CTA button to open the repository's HTML URL in an external browser.
-<style>
-  img {
-    width: 100%; /* Make images fill their container */
-    max-width: 400px; /* Limit maximum width to 400 pixels */
-    margin: 20px auto; /* Center align images with some margin */
-    display: block; /* Ensure images are displayed as block elements */
-  }
-</style>
+<img src="/assets/1.jpg" alt="Example Image 1" style="height:400px;width:100px;">
+<img src="/assets/2.jpg" alt="Example Image 2" style="height:400px;width:100px;">
 
-![Example Image 1](/assets/1.jpg)
-![Example Image 2](/assets/2.jpg)
 
 
 
