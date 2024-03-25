@@ -1,4 +1,4 @@
-ABN AMRO GitHub Repositories Viewer
+<h1>ABN AMRO GitHub Repositories Viewer</h1>
 
 This Android app allows users to view the repositories of ABN AMRO on GitHub. The app consists of two screens: a list screen and a detail screen.
 
