@@ -39,8 +39,8 @@ Build and run the app on an Android device or emulator.
 View the ABN AMRO GitHub repositories on the list screen.
 Click on a repository to view its details on the detail screen.
 Use the CTA button to open the repository's HTML URL in an external browser.
-<img src="/assets/1.jpg" alt="Example Image 1" style="height:400px;width:100px;">
-<img src="/assets/2.jpg" alt="Example Image 2" style="height:400px;width:100px;">
+<img src="/assets/1.jpg" alt="Example Image 1" style="height:auto;width:100px;">
+<img src="/assets/2.jpg" alt="Example Image 2" style="height:auto;width:100px;">
 
 
 
