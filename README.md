@@ -1,10 +1,10 @@
 <h1>ABN AMRO GitHub Repositories Viewer</h1>
 
-This Android app allows users to view the repositories of ABN AMRO on GitHub. The app consists of two screens: a list screen and a detail screen.
+This app allows users to view the repositories of ABN AMRO on GitHub. The app consists of two screens: a list screen and a detail screen.
 
 <h2>Features:</h2>
 
-<h2>List Screen:</h2>
+<h3>List Screen:</h3>
 
 Paginated list of ABN AMRO repositories.
 Each item displays the following data:
@@ -13,7 +13,7 @@ Visibility (public or private)
 Name
 Users can click on an item to view its details.
 
-<h2>Detail Screen:</h2>
+<h3>Detail Screen:</h3>
 
 Displays detailed information about the selected repository.
 Information displayed includes:
@@ -22,16 +22,11 @@ Description
 Owner's avatar image
 Visibility (public or private)
 Provides a call-to-action (CTA) button to open the repository's HTML URL in an external browser.
-GitHub API:
 
-The app fetches data from the following GitHub API endpoint: ABN AMRO GitHub Repositories API
-GitHub REST API Documentation:
+<h3>GitHub API:</h3>
 
-For more information about GitHub's REST API, refer to the GitHub REST API documentation.
-Offline Functionality (Part 2):
+The app fetches data from ABN AMRO GitHub Repositories API endpoint.
 
-The app caches data in the local database to enable partial offline functionality.
-Cached data is updated once the device has an internet connection.
 
 <h2>How to Use:</h2>
 
