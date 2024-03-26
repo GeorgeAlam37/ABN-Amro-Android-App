@@ -27,7 +27,11 @@ Provides a call-to-action (CTA) button to open the repository's HTML URL in an e
 
 The app fetches data from ABN AMRO GitHub Repositories API endpoint.
 
+<h3>Technology Used</h3>
 
+- React Native
+- Expo CLI
+  
 <h2>How to Use:</h2>
 
 - Clone the repository to your local machine.
