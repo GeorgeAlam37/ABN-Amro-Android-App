@@ -30,12 +30,12 @@ The app fetches data from ABN AMRO GitHub Repositories API endpoint.
 
 <h2>How to Use:</h2>
 
-Clone the repository to your local machine.
-Open the project in Android Studio.
-Build and run the app on an Android device or emulator.
-View the ABN AMRO GitHub repositories on the list screen.
-Click on a repository to view its details on the detail screen.
-Use the CTA button to open the repository's HTML URL in an external browser.
+- Clone the repository to your local machine.
+- Open the project in Android Studio.
+- Build and run the app on expo Go.
+- View the ABN AMRO GitHub repositories on the list screen.
+- Click on a repository to view its details on the detail screen.
+- Use the CTA button to open the repository's HTML URL in an external browser.
 
 <h2>ScreenShots:</h2>
 
